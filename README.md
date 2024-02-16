@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="dp.jpg" alt="Profile Picture"/>
-</p>
-
+<img align="right" style="width:16rem; height:auto" src="logo-removebg-preview.png"/>
 ## Justin Mathew
 
 👨‍💻 Sr Software Engineer with experience in AWS and Linux.
